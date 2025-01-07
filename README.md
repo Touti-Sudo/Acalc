@@ -56,9 +56,10 @@ The square root is: 5.0
    cd acalc
    ```
 
-2.```bash
-  pip install -r requirements
-  ```
+2.Install all the library:
+```bash
+pip install -r requirements
+```
 
 4. Run the script:
    ```bash
