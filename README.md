@@ -59,8 +59,12 @@ The square root is: 5.0
    ```bash
    pip install pyfiglet
    ```
+   or :
+    ```bash
+    pip install -r requirements
+     ```
 
-3. Run the script:
+4. Run the script:
    ```bash
    python acalc.py
    ```
