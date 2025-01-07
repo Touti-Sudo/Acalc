@@ -56,14 +56,9 @@ The square root is: 5.0
    cd acalc
    ```
 
-2. Install the required library:
-   ```bash
-   pip install pyfiglet
-   ```
-   or :
-    ```bash
-    pip install -r requirements
-     ```
+2.```bash
+  pip install -r requirements
+  ```
 
 4. Run the script:
    ```bash
