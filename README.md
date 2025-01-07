@@ -47,7 +47,7 @@ The square root is: 5.0
 
 - Python 3.6 or higher
 - `pyfiglet` library (install with `pip install pyfiglet`)
-
+- 'numpy' library (install with "pip install numpy")
 ## Installation 📥
 
 1. Clone the repository:
