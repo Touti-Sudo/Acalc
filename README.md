@@ -9,9 +9,10 @@ Acalc is a simple and interactive calculator built with Python. It allows users 
   - Subtraction (`-`)
   - Multiplication (`x`)
   - Division (`/`)
-- Square root mode: Easily calculate the square root of a number by entering a special code.
+- Square root mode: Easily calculate the square root of a number by entering a special code (789123).
 - Interactive and user-friendly. 💻
-
+- matrix mode : Easily do matrix calculations by entering a special code (753951).
+  
 ## How It Works 🛠️
 
 1. The user enters the first number.
