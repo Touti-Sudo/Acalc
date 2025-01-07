@@ -3,7 +3,7 @@ import numpy as np
 
 result = pyfiglet.figlet_format("Acalc", font="slant")
 print(result)
-print("Welcome to Acalc, the world's first and best Anes Dev calculator with Python programming language, if you want to square root a number enter this 789123, ")
+print("Welcome to Acalc, the world's first and best Anes Dev calculator with Python programming language, if you want to square root a number enter this 789123, and if you want to do matrix calculations then enter this 753951 ")
 
 while True:
     try:
