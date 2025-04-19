@@ -1,4 +1,4 @@
-# Acalc - The Anes Dev Calculator 🚀
+# Acalc - The Best Calculator 🚀
 
 Acalc is a simple and interactive calculator built with Python. It allows users to perform basic arithmetic operations and even calculate square roots in a user-friendly command-line interface. The calculator is designed to make mathematical operations straightforward and accessible for everyday use. 🧮
 
